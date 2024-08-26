@@ -1,4 +1,4 @@
-I'm Mały Mić. I am from Poland. I develop Miciosoft. 
+I'm Mały Mić. I am from Poland. I develop Miciosoft. (no Microsoft)
 
 <!---
 malymic69/malymic69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
